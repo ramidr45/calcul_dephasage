@@ -18,4 +18,4 @@ Projet Keil µVision sur STM32F407VG (Discovery) : génération de deux sinusoï
 Keil MDK-ARM (µVision 5), STM32F4 Standard Peripheral Library
 
 ## Auteur
-Rami Dridi — ENIT
+Rami Dridi — ENIT · [Portfolio](https://ramidr45.github.io) · [LinkedIn](https://www.linkedin.com/in/rami-dridi-103358327/)
