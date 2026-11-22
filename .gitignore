@@ -1,0 +1,6 @@
+# Keil µVision : sorties de compilation et fichiers utilisateur
+Objects/
+Listings/
+*.uvguix.*
+*.bak
+*.dep
